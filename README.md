@@ -1,13 +1,12 @@
-# fake_piano_blocks
-钢琴块的低仿拉胯版
+# fake_piano_blocks 食用指南
 
-# 首先是食用指南
+
 
 ## 1、easy_x软件准备
 
 > > 双击该安装程序，并在你的vs上（显示是Visual C++ 版本号）安装，直接点击就送
 > >
-> > ![image-20220118142031590](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220118142031590.png)
+> > [![jrVUoD.png](https://s1.ax1x.com/2022/07/09/jrVUoD.png)](https://imgtu.com/i/jrVUoD)
 > >
 > > 或者移步官网，下载最新版
 > >
@@ -15,31 +14,26 @@
 
 ## 2、打开.sln项目文件
 
-> > ![image-20220119215124319](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220119215124319.png)
-> >
-> > ![image-20220119215133129](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220119215133129.png)
+> > 
 > >
 > > 进行一些基础的设置
 > >
 > > 1、对项目右键，选择属性
 > >
-> > ![image-20220118144101982](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220118144101982.png)
+> > ![jrVDSA.png](https://s1.ax1x.com/2022/07/09/jrVDSA.png)](https://imgtu.com/i/jrVDSA)
 > >
 > > 2、在**C/C++**选项中找到SDL检查，关闭
 > >
-> > ![image-20220118144227015](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220118144227015.png)
+> > ![jrVwJH.png](https://s1.ax1x.com/2022/07/09/jrVwJH.png)]
 > >
 > > 3、切换到**高级**，改变字符集为“多字节字符集”
 > >
-> > ![image-20220118144348629](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220118144348629.png)
+> > ![jrV0Wd.png](https://s1.ax1x.com/2022/07/09/jrV0Wd.png)]
 > >
 > > 最后点击右下角“应用”即可
 
 ## 3、直接跑main.c程序
 
-> > ![image-20220119215434162](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220119215434162.png)
-> >
-> > ![image-20220119215456368](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220119215456368.png)
 > >
 > > 有几个自己发现的不足之处，如果觉得很接受不了的或者有其他认为需要改进的地方，请提出宝贵建议,thxx
 > >
@@ -57,7 +51,7 @@
 > >
 > > （2）设置那里，当光标指示到某一行时，如果想修改值，先回车，等待下方提示弹出后，直接用键盘输入数字，它会自己显示值的改变，之后再回车保存结果√
 > >
-> > ![image-20220119215858493](C:\Users\robinbird\AppData\Roaming\Typora\typora-user-images\image-20220119215858493.png)
+> > [![jrVsyt.png](https://s1.ax1x.com/2022/07/09/jrVsyt.png)](https://imgtu.com/i/jrVsyt)
 > >
 > > （3）游戏的打击键是按键盘实现的，1-6键顺序是asdfgh，（键盘第二行左边开始）
 > >
