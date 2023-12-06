@@ -1,5 +1,3 @@
-# 嗷对，项目的源代码在分支src里面，这里主分支只有readme
-
 # fake_piano_blocks 食用指南
 
 
